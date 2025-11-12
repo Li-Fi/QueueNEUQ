@@ -1,0 +1,23 @@
+td.odd
+{
+ background-color: #dfd;
+}
+
+td.even
+{
+ background-color: #ddf;
+}
+
+hr.r1
+{
+  border-width: 3px 0px 0px 0px;
+  border-color: gray;
+}
+
+hr.r2
+{
+  border-width: 1px 0px 0px 0px;
+  border-color: #bbb;
+  margin: 20px 0px 0px 0px;
+}
+
